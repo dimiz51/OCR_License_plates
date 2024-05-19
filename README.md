@@ -15,7 +15,7 @@ The base model architecture:
 ![Training](readme_images/architecture.png)
 
 # Results
-Some results after training without any augmentations and just EarlyStopping:
+No image augmentations were used for the model that gave these results.
 
 ## Training metrics
 ![Training](readme_images/training.png)
